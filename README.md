@@ -18,6 +18,4 @@ Resumir hallazgos y patrones relevantes.
 
 Nota: Los datos son ficticios y el análisis se realiza con fines académicos.
 
-⚠️ Estado: Proyecto en progreso, aún no finalizado.
-
 📄 Documentación completa: Todos los pasos y resultados se explican en detalle en el archivo Problema_analisis_clima.docx.
